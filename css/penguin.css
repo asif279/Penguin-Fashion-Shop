@@ -26,14 +26,14 @@
 .igm{
     width: 50%;
     height: 50%;
+    background-color: lightgray;
     
 }
 .he{
     height: 40%;
 }
-.gb{
-    background-color: f1f1f1;
-}
+
+
 .h3-col{
     color: orange;
 }
@@ -41,4 +41,9 @@
   padding-left: 20px;
   padding-right: 20px;
   
+}
+.crr{
+    color: blueviolet;
+    font-size: 35px;
+    font-weight: 11 00PX;
 }
