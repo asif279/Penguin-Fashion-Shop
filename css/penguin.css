@@ -21,10 +21,11 @@
 .but{
     font-weight: 800px;
     font-size: 20px;
+   
 }
 .igm{
-    width: 100%;
-    height: 80%;
+    width: 50%;
+    height: 50%;
     
 }
 .he{
@@ -32,4 +33,12 @@
 }
 .gb{
     background-color: f1f1f1;
+}
+.h3-col{
+    color: orange;
+}
+.buttonn{
+  padding-left: 20px;
+  padding-right: 20px;
+  
 }
